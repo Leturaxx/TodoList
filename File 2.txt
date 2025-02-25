@@ -2,3 +2,4 @@
 This is the second message for the workout branch
 
 This is the second message for the location  branch
+This is the second message for the profile branch
